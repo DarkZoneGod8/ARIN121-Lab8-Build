@@ -1,0 +1,6 @@
+{
+  "name": "ARIN 121 - Interactive Study Quiz",
+  "description": "Interactive study quiz generator and assessment for ARIN 121 university students based on lecture notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
